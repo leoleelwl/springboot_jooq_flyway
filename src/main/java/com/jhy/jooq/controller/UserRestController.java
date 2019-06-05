@@ -1,4 +1,4 @@
-package com.swnote.jooq.controller;
+package com.jhy.jooq.controller;
 
 import java.util.List;
 import java.util.Map;
@@ -10,8 +10,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.swnote.jooq.generator.tables.pojos.User;
-import com.swnote.jooq.service.IUserService;
+import com.jhy.jooq.generator.tables.pojos.User;
+import com.jhy.jooq.service.IUserService;
 
 /**
  * 用户REST信息

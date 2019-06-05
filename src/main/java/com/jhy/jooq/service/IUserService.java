@@ -1,16 +1,10 @@
-package com.swnote.jooq.service;
+package com.jhy.jooq.service;
 
 import java.util.List;
 import java.util.Map;
 
-import com.swnote.jooq.generator.tables.pojos.User;
+import com.jhy.jooq.generator.tables.pojos.User;
 
-/**
- * 用户信息服务接口
- * 
- * @author lzj
- * @date [2019-03-10]
- */
 public interface IUserService {
 
     /**
