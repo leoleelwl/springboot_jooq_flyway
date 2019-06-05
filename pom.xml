@@ -8,11 +8,11 @@
 	</parent>
 
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.swnote.jooq</groupId>
-	<artifactId>sw-jooq</artifactId>
+	<groupId>com.jhy.jooq</groupId>
+	<artifactId>jooq</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
-	<name>sw-jooq</name>
+	<name>jooq</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
